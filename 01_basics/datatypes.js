@@ -26,6 +26,8 @@
 //     console.log("hello world")
 // }
 
-
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  
+// Two memory storage in javascript
+// stack (premitive/copy) , heap (non-premitive/reference)
 
