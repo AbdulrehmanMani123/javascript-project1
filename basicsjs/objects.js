@@ -20,11 +20,11 @@
 //     console.log(alert("hello"));
 
 
-let a = {
-    name: "superman",
-    islogedin: {
-        signup: true,
-        signin: true
-    }
+// let a = {
+//     name: "superman",
+//     islogedin: {
+//         signup: true,
+//         signin: true
+//     }
 
-}
+// }
