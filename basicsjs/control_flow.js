@@ -12,3 +12,15 @@
 // }
 
 // < , > , <= , >= , == , != , === 
+
+
+// let number = 1000
+
+// if (number < 10000) {
+//     console.log("you can buy this")
+// }
+
+// else {
+//     console.log("you can not buy this for now");
+    
+// }
