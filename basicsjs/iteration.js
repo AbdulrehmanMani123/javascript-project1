@@ -18,9 +18,9 @@
     
 // }
 
-let number = 0;
+// let number = 0;
 
-while (number <= 20) {
-    console.log(`${number} 2`)
-    number = number + 1
-}
+// while (number <= 20) {
+//     console.log(`${number} 2`)
+//     number = number + 1
+// }
