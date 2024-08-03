@@ -17,3 +17,10 @@
 //     console.log(number)
     
 // }
+
+let number = 20;
+
+while (number <= 20) {
+    console.log(number)
+    number = number + 2
+}
