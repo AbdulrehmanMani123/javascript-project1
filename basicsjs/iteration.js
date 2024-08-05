@@ -18,9 +18,10 @@
     
 // }
 
-// let number = 0;
+// let mynums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-// while (number <= 20) {
-//     console.log(`${number} 2`)
-//     number = number + 1
-// }
+// let nums = mynums.filter((num) => {
+//     return num <10
+// } )
+// console.log(nums)
+
