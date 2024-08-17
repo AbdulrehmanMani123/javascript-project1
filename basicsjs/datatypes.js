@@ -2,7 +2,7 @@
 
 // premitive or reference 
 
-// premitives 
+// premitives
 // String 
 // Number 
 // Boolean
@@ -29,5 +29,4 @@
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  
 // Two memory storage in javascript
-// stack (premitive/copy) , heap (non-premitive/reference)
-
+// stack (premitive/copy) , heap (non-premitive/reference) 

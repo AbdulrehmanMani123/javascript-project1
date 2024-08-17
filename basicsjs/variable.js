@@ -1,9 +1,8 @@
-// let acountname = 1234
-// let acountgmail = "@gmail.com"
-// var acountpassword = "756578678"
-// acountcity = "islamabad"
+// let accountnumber = 123456789
+// let accountgmail = "@google@gmail.com"
 
-// // console.log(acountname);
+// console.log(`accountnumber is ${accountnumber} and gmail. is ${accountgmail}`)
 
 
-// console.log([acountname, acountgmail, acountpassword, acountcity]);
+
+
