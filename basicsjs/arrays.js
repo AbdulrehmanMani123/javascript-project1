@@ -28,7 +28,3 @@
 // let newarr = arr.flat(Infinity)
 
 // console.log(newarr);
-
-
-
-

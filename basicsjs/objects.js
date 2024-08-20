@@ -1,3 +1,12 @@
+// let user = {
+//     name: "nick",
+//     twitter: "jeremy",
+//     discord: "jeremy",
+//     Gmail: "jeremy@gmail.com"
+// }
+
+// console.log(user["Gmail"])
+
 // let mysym = Symbol("symbol")
 
 // let obj = {
@@ -19,6 +28,7 @@
 // function hello() {
 //     console.log(alert("hello"));
 
+// }
 
 // let a = {
 //     name: "superman",
@@ -26,5 +36,4 @@
 //         signup: true,
 //         signin: true
 //     }
-
 // }
