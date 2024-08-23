@@ -1,3 +1,33 @@
+// For loop basics loop 
+
+// for (let index = 0; index < 10; index++) {
+//     const element = index;
+//     if (element == 9) {
+//         console.log("number 9")
+        
+//     }
+
+//     console.log(element)
+// }
+
+// let myarr = ["superman", "wonderwoman", "spiderman"]
+
+// for (let index = 0; index < myarr.length; index++) {
+//     const element = myarr[index];
+//     console.log(element)
+    
+// }
+
+// for (let index = 0; index <= 20; index++) {
+//     if (index == 9) {
+//         console.log("9 detected")
+//         continue
+//     }
+//     const element = index;
+//     console.log(element)
+    
+// }
+
 // for (let i = 0; i <= 10; i++) {
 //     const element = i;
 //     if (element == 10) {
@@ -5,9 +35,8 @@
         
         
 //     }
-//     console.log(element);
-    
 // }
+//     console.log(element);
 
 // for (let number = 1; number <= 20; number++) {
 //     if (number == 10) {
