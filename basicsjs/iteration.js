@@ -44,7 +44,7 @@
 //         continue
 //     }
 //     console.log(number)
-    
+
 // }
 
 // let mynums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -54,3 +54,27 @@
 // } )
 // console.log(nums)
 
+
+// While loop 
+
+// let index = 0
+// while (index <= 20) {
+//     console.log(index)
+//     index = index + 2
+// }
+
+// let myarr = ["javascript", "python", "html css"]
+
+// let arr = 0
+// while (arr < myarr.length) {
+//     console.log(myarr[arr])
+//     arr++
+    
+// }
+
+// for of loop Array specific loop 
+
+// let arr = ["javascript", "python", "html css"]
+// for (const element of arr) {
+//     console.log(element)
+// }
