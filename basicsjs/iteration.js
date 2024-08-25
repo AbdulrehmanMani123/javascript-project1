@@ -78,3 +78,20 @@
 // for (const element of arr) {
 //     console.log(element)
 // }
+
+// For in loop object Specific loop 
+
+// let arr = ["javascrpt", "python"]
+// for (const key in arr) {
+//     console.log(arr[key])
+// }
+
+// foreach loop 
+
+// let arr = ["javascript", "python"]
+// arr.forEach(function (arr) {
+//     console.log(arr)
+// })
+
+
+
