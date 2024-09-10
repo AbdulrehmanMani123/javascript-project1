@@ -11,12 +11,11 @@
 // }) 
 
 fetch("https://api.github.com/users/me")
-.then(response => {
-    return response.json
-})
-.then((data) => {
-    console.log(data)
-})
-.catch((error) => {
-    console.log(error)
-})
+  .then(response => response.json())  // Directly call response.json()
+  .then(data => {
+    console.log(data); // Access the user data here
+  })
+  .catch(error => {
+    console.error(error); // Log the error message for debugging
+  });
+  
